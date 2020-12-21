@@ -10,6 +10,7 @@
 8. resource in laravel
 9. how can we debug laravel application
 10. joins in laravel model
+11. type hinting
 
 
 ====================ReactJs====================
