@@ -1,0 +1,19 @@
+====================PHP====================
+
+1. method overriding
+2. method overloading
+3. custom middleware in laravel
+4. type of methods in curl
+5. third party api integration in laravel
+6. interface in oops/php
+7. abstraction in oops/php
+8. resource in laravel
+9. how can we debug laravel application
+10. joins in laravel model
+
+
+====================ReactJs====================
+
+1. jsx
+2. lifecycle methods of ReactJs
+3. how react application works
