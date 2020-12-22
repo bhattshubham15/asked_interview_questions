@@ -11,6 +11,13 @@
 9. how can we debug laravel application
 10. joins in laravel model
 11. type hinting
+1. reverse routing
+2. how can we apply csrf protection on specific route
+3. middleware purpose
+4. dependency injection
+5. database migration
+6. how to create migration in laravel by artisan
+7. service provider in laravel
 
 
 ====================ReactJs====================
@@ -18,3 +25,32 @@
 1. jsx
 2. lifecycle methods of ReactJs
 3. how react application works
+1. jsx
+2. difference between functional and class component
+3. how to reset the form after submit
+4. difference between mounting and unmounting
+
+
+====================Angular Js====================
+
+1. difference between components and directive
+2. one way and two way data binding
+3. ngafterviewinit
+4. ngonChange and ngonInit
+5. dependency injection in angular
+
+
+====================Node Js====================
+
+1. what is errorfirst
+
+
+====================MySql====================
+
+1. storage engine
+2. difference between innodb and myisum
+3. difference between primary and candidate key
+4. difference between enum and set
+5. mysql fetch array and mysql fetch object
+6. different types of tables available in mysql
+
