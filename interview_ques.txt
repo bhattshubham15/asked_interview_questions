@@ -18,6 +18,10 @@
 5. database migration
 6. how to create migration in laravel by artisan
 7. service provider in laravel
+1. interface
+2. diamond problem in oop (multiplr inheritance)
+3. traits
+4. difference between astraction and interface
 
 
 ====================ReactJs====================
