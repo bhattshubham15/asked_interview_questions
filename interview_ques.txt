@@ -22,6 +22,10 @@
 2. diamond problem in oop (multiplr inheritance)
 3. traits
 4. difference between astraction and interface
+1. append json in dom
+2. make panel to log 404 errors faced in live website
+3. on scroll down paginate to next page and vice-versa
+4. how to access object in php
 
 
 ====================ReactJs====================
